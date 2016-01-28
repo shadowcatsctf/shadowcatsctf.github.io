@@ -30,8 +30,10 @@
     <nav class="mdl-navigation">
       <a class="mdl-navigation__link" href="{{ site.baseurl }}{{ site.url }}">Home</a>
       {% for page in site.pages %}
-        {% if page.title %}
-          <a class="mdl-navigation__link" href="{{ page.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+        {% if page.toplevel %}
+          {% if page.title %}
+            <a class="mdl-navigation__link" href="{{ page.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </nav>

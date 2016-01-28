@@ -36,10 +36,12 @@
       <h1 class="mdl-mega-footer__heading">Pages</h1>
       <ul class="mdl-mega-footer__link-list">
         {% for page in site.pages %}
-          {% if page.title %}
-            <li>
-              <a href="{{ page.url | prepend: site.baseurl | prepend: site.url}}">{{ page.title }}</a>
-            </li>
+          {% if page.toplevel %}
+            {% if page.title %}
+              <li>
+                <a href="{{ page.url | prepend: site.baseurl | prepend: site.url}}">{{ page.title }}</a>
+              </li>
+            {% endif %}
           {% endif %}
       {% endfor %}
       </ul>
