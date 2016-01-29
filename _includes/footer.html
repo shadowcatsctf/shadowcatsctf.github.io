@@ -39,7 +39,7 @@
           {% if page.toplevel %}
             {% if page.title %}
               <li>
-                <a href="{{ page.url | prepend: site.baseurl | prepend: site.url}}">{{ page.title }}</a>
+                <a href="{{ page.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
               </li>
             {% endif %}
           {% endif %}
