@@ -24,6 +24,20 @@ exploitation.
   * [ASRL in PaX](https://pax.grsecurity.net/docs/aslr.txt)
 
 
+##### Quick References #####
+
+* x86/-64 ASM
+  * [x86/x86_64 Assembly Reference](http://ref.x86asm.net/)
+  * [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
+  * [x86 Processor Info](http://sandpile.org/)
+  * [Intel x86/x86-64 Manual](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf)
+* Linux Syscalls
+  * [x86 Syscall Table](http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html)
+  * [x86-64 Syscall Table](http://blog.rchapman.org/post/36801038863/linux-system-call-table-for-x86-64)
+* ABIs
+  * [SysV x86-64 ABI](http://www.x86-64.org/documentation/abi.pdf)
+
+
 ##### Exercises for Memory Corruption #####
 
 * Classes
