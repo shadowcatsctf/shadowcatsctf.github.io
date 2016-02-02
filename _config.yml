@@ -9,7 +9,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 markdown: kramdown
 paginate: 5 # pagination based on number of posts
 paginate_path: "page/:num"
-highlighter: pygments
+highlighter: rogue
 gems: [jekyll-paginate]
 
 # author info
