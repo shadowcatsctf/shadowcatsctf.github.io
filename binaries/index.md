@@ -22,6 +22,7 @@ exploitation.
 * Mitigations
   * [RELRO: Not so well known memory corruption mitgation](http://tk-blog.blogspot.com/2009/02/relro-not-so-well-known-memory.html)
   * [ASLR in PaX](https://pax.grsecurity.net/docs/aslr.txt)
+* [Shellcoding](/binaries/shellcoding.html)
 
 
 ##### Quick References #####
