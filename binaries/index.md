@@ -17,13 +17,15 @@ exploitation.
   * [Smashing the Stack for Fun and Profit](http://insecure.org/stf/smashstack.html)
   * [Smashing the Stack for Fun and Profit: Revived](https://avicoder.me/2016/02/01/smashsatck-revived/)
   * [Exploiting Format String Vulnerabilities](http://julianor.tripod.com/bc/formatstring-1.2.pdf)
+  * [Malloc Metadata Corruption: Once Upon a free()](http://phrack.org/issues/57/9.html)
 * DEP/NX Evasion
   * [ROP](/binaries/rop.html)
 * Mitigations
   * [RELRO: Not so well known memory corruption mitgation](http://tk-blog.blogspot.com/2009/02/relro-not-so-well-known-memory.html)
   * [ASLR in PaX](https://pax.grsecurity.net/docs/aslr.txt)
 * [Shellcoding](/binaries/shellcoding.html)
-
+* Other Architectures
+  * [ARM](/binaries/arm.html)
 
 ##### Quick References #####
 
