@@ -20,6 +20,8 @@ exploitation.
   * [Malloc Metadata Corruption: Once Upon a free()](http://phrack.org/issues/57/9.html)
 * DEP/NX Evasion
   * [ROP](/binaries/rop.html)
+* ASLR Bypass
+  * [Offset2lib: bypassing full ASLR on 64bit Linux](http://cybersecurity.upv.es/attacks/offset2lib/offset2lib.html)
 * Mitigations
   * [RELRO: Not so well known memory corruption mitgation](http://tk-blog.blogspot.com/2009/02/relro-not-so-well-known-memory.html)
   * [ASLR in PaX](https://pax.grsecurity.net/docs/aslr.txt)
