@@ -7,6 +7,11 @@ toplevel: true
 ---
 
 * Documentation
-* Tools
-  * [FRIDA RE Toolkit](http://www.frida.re/)
-  * [An Introduction to radare2 – sushant94](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
+  * [Reverse Engineering for Beginners](http://beginners.re/RE4B-EN-A5.pdf)
+* Binaries
+  * Static Analysis
+    * [An Introduction to radare2 – sushant94](http://sushant94.me/2015/05/31/Introduction_to_radare2/)
+  * Dynamic Analysis
+    * [FRIDA RE Toolkit](http://www.frida.re/)
+  * Symbolic Execution
+    * [angr](http://angr.io/)
