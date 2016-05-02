@@ -48,3 +48,12 @@ exploitation.
 * Classes
   * [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
+* Challenges / Wargames
+  * [SmashTheStack - IO](http://io.netgarage.org/)
+  * [OverTheWire](http://overthewire.org/wargames/)
+  * [MicroCorruption](https://microcorruption.com/)
+  * [VulnHub](https://www.vulnhub.com/)
+  * [Pwnable.kr](http://pwnable.kr/)
+  * [Bright-Shadows](http://bright-shadows.net/)
+  * [W3Challs](https://w3challs.com/)
+
