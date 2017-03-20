@@ -23,7 +23,7 @@ github_username:
 
 # Theming options
 # These settings are mandatory.
-theme:              'blue-pink'
+# theme:              'blue-pink'
 # drawer theming
 drawer:
   text_color:       'grey-600'
